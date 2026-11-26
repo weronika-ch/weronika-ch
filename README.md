@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**weronika-ch/weronika-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Weronika, a student in the United Kingdom.
 
-Here are some ideas to get you started:
+I design and make whatever comes to my head.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Video games, algorithms assets? I make it work together.
+
+Currently learning Python, Pygame SQL, C# and Unity. My favourite tools are canva, piskel, notes and ibis paint x on my tablet.
+
+I've got a bunch of projects planned.
+
+I’m currently working on a school project
+
+**Fun facts:**
+- I practise taekwondo
+- I love to crochet
+- Sailor moon is my favourite anime
+
