@@ -4,7 +4,7 @@ I'm Weronika, a student in the United Kingdom.
 
 I design and make whatever comes to my head.
 
-Video games, algorithms assets? I make it work together.
+Video games, algorithms, assets? I make it work together.
 
 Currently learning Python, Pygame SQL, C# and Unity. My favourite tools are canva, piskel, notes and ibis paint x on my tablet.
 
