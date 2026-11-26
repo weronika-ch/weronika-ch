@@ -8,9 +8,8 @@ Video games, algorithms, assets? I make it work together.
 
 Currently learning Python, Pygame SQL, C# and Unity. My favourite tools are canva, piskel, notes and ibis paint x on my tablet.
 
-I've got a bunch of projects planned.
-
-I’m currently working on a school project
+I've got a bunch of projects planned. 
+Currently working on a school project.
 
 **Fun facts:**
 - I practise taekwondo
